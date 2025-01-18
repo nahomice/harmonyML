@@ -1,0 +1,28 @@
+Title: nahi
+Artist: kiki
+Genre: Pop
+File Path: C:\Users\Nahom W\Desktop\Harmony OOP  Final version\src\songs\spotifydown.com - Wede Teraraw Chaf.mp3
+Album Cover Path: C:\Users\Nahom W\Desktop\Harmony OOP  Final version\src\resources\ai-generated-mysterious-dark-forest-with-stars-in-the-sky-night-forest-with-full-moon-and-stars-in-the-sky-photo.jpg
+
+====================
+Title: Amoraw
+Artist: nahi
+Genre: Pop
+File Path: C:\Users\Nahom W\Desktop\Harmony OOP  Final version\src\songs\spotifydown.com - Wede Teraraw Chaf.mp3
+Album Cover Path: 
+
+====================
+Title: kiya
+Artist: kiki
+Genre: Pop
+File Path: 
+Album Cover Path: 
+
+====================
+Title: amburew
+Artist: ambu
+Genre: Pop
+File Path: C:\Users\Nahom W\Desktop\Harmony OOP  Final version\src\songs\spotifydown.com - Wede Teraraw Chaf.mp3
+Album Cover Path: 
+
+====================
